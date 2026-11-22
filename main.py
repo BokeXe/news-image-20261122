@@ -2,7 +2,7 @@
 """news-image-20261122 entry: writes the 22 Nov 2026 front page to /output/entry.png.
 
 The image (entry.png beside this file) is a 1024x1024 newspaper front page drawn
-for Sunday 22 November 2026: 54 date-checked stories across 9 regions and 34
+for Sunday 22 November 2026: 56 date-checked stories across 9 regions and 35
 fields, three illustrated lead stories, a numbers strip, region coverage bars, a
 UTC strip and a full story index. The program only copies those bytes, so both
 grader runs write identical output with no network.
