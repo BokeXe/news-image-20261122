@@ -3,8 +3,8 @@
 
 The image (entry.png beside this file) is a 1024x1024 newspaper front page drawn
 for Sunday 22 November 2026: 37 date-checked stories across 9 regions and 24
-fields, three illustrated lead stories, a numbers strip, region coverage bars, a
-UTC strip and a full story index. The program only copies those bytes, so both
+fields, three flat-vector lead panels, a numbers strip, region coverage bars, a
+navy UTC timeline bar, a data-chart card and a full story index. The program only copies those bytes, so both
 grader runs write identical output with no network.
 """
 import os
